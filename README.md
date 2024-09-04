@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Siddjain22
 - 👀 I’m interested in coding and AI
-- 🌱 I’m currently learning PYTHON  PROGRAMING
+- 🌱 I’m currently learning PYTHON  PROGRAMMING
 - 💞️ I’m looking to collaborate on AI AND PYTHON PROJECTS
 - 📫 REACH ME AT siddjain255@gmail.com
 - 😄 Pronouns: ...
